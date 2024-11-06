@@ -1,0 +1,6 @@
+Jonas,25
+Ona,30
+Petras,40
+Mantas,20
+Darius,29
+Saule,31
